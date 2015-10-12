@@ -3,12 +3,14 @@
 
 In a Stroop task, participants are presented with a list of words, with each word displayed in a color of ink. The participant’s task is to say out loud the color of the ink in which the word is printed. The task has two conditions: a congruent words condition, and an incongruent words condition. In the congruent words condition, the words being displayed are color words whose names match the colors in which they are printed. In the incongruent words condition, the words displayed are color words whose names do not match the colors in which they are printed. In each case, we measure the time it takes to name the ink colors in equally-sized lists. Each participant will go through and record a time from each condition.
 
+#### Stroop task Dataset: 
+
 #### Questions for investigation
 
 ##### 1.	Question 1: Identify variables in the experiment
 The variables in the experiment are:
-Independent Variable: Word Condition (Congruent or incongruent)
-Dependent Variable: Time it takes to name the ink colors.
+<p> <b>a. Independent Variable: </b> Word Condition (Congruent or incongruent) </p>
+<p> <b>b. Dependent Variable: </b> Time it takes to name the ink colors. </p>
 
 ##### 2.	Question 2: Establish a hypothesis and statistical test
 Ho Null Hypothesis: Average Time taken to name the ink colors for both the word condition (Congruent/Incongruent) is not significantly different. µ(Congruent) = µ(Incongruent)
