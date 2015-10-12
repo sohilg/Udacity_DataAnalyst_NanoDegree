@@ -19,15 +19,15 @@ The variables in the experiment are:
 
 ##### 3.	Question 3: Report descriptive statistics
 * **Congruent:** 
-  *	**Average** = 14.05
-	* **Min** = 8.63; **Max** = 22.328 
-	* **Median** = 14.3565 
-	* **S.D.** = 3.6
+  * **Average** = 14.05
+  * **Min** = 8.63; **Max** = 22.328 
+  * **Median** = 14.3565 
+  * **S.D.** = 3.6
 * **Incongruent:**
-	* **Average** = 22.01 
-	* **Min** = 15.687; **Max** = 35.255 
-	* **Median** = 21.0175 
-	* **S.D.** = 4.8
+  * **Average** = 22.01 
+  * **Min** = 15.687; **Max** = 35.255 
+  * **Median** = 21.0175 
+  * **S.D.** = 4.8
 
 ##### 4.	Question 4: Plot the data 
 From above Line Chart, we can see that the time taken to name in case of Incongruent word condition is consistently higher compared to the congruent word condition.
