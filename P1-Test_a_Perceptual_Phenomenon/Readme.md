@@ -38,5 +38,5 @@ Therefore, we can reject the Null Hypothesis that the average time taken to name
 
 
 ##### References:
-a.	http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf
-b.	http://www.ats.ucla.edu/stat/mult_pkg/whatstat/choosestat.html
+ *	http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf
+ * http://www.ats.ucla.edu/stat/mult_pkg/whatstat/choosestat.html
