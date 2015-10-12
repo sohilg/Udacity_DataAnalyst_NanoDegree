@@ -13,21 +13,21 @@ The variables in the experiment are:
 * **Dependent Variable:** Time it takes to name the ink colors.
 
 ##### 2.	Question 2: Establish a hypothesis and statistical test
-Ho Null Hypothesis: Average Time taken to name the ink colors for both the word condition (Congruent/Incongruent) is not significantly different. µ(Congruent) = µ(Incongruent)
-Ha Alternative Hypothesis: Average Time taken to name the ink colors for both the word condition (Congruent/Incongruent) is significantly different. µ(Congruent) ≠ µ(Incongruent)
-Statistical Test:  Paired T-test because to test if the average time taken in two different word condition (Congruent/Incongruent) are equal or not.
+* **Ho Null Hypothesis:** Average Time taken to name the ink colors for both the word condition (Congruent/Incongruent) is not significantly different. **µ(Congruent) = µ(Incongruent)**
+* **Ha Alternative Hypothesis:** Average Time taken to name the ink colors for both the word condition (Congruent/Incongruent) is significantly different. **µ(Congruent) ≠ µ(Incongruent)**
+* **Statistical Test:**  **Paired T-test** because to test if the average time taken in two different word condition (Congruent/Incongruent) are equal or not.
 
 ##### 3.	Question 3: Report descriptive statistics
-Congruent: 
-a.	Average = 14.05
-b.	Min = 8.63; Max = 22.328 
-c.	Median = 14.3565 
-d.	S.D. = 3.6
-Incongruent: 
-a.	Average = 22.01 
-b.	Min = 15.687; Max = 35.255 
-c.	Median = 21.0175 
-d.	S.D. = 4.8
+* **Congruent:** 
+  *	**Average** = 14.05
+	* **Min** = 8.63; **Max** = 22.328 
+	* **Median** = 14.3565 
+	* **S.D.** = 3.6
+* **Incongruent:**
+	* **Average** = 22.01 
+	* **Min** = 15.687; **Max** = 35.255 
+	* **Median** = 21.0175 
+	* **S.D.** = 4.8
 
 ##### 4.	Question 4: Plot the data 
 From above Line Chart, we can see that the time taken to name in case of Incongruent word condition is consistently higher compared to the congruent word condition.
