@@ -9,8 +9,8 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 ##### 1.	Question 1: Identify variables in the experiment
 The variables in the experiment are:
-<p> <b>a. Independent Variable: </b> Word Condition (Congruent or incongruent) </p>
-<p> <b>b. Dependent Variable: </b> Time it takes to name the ink colors. </p>
+<b>a. Independent Variable: </b> Word Condition (Congruent or incongruent)
+<b>b. Dependent Variable: </b> Time it takes to name the ink colors.
 
 ##### 2.	Question 2: Establish a hypothesis and statistical test
 Ho Null Hypothesis: Average Time taken to name the ink colors for both the word condition (Congruent/Incongruent) is not significantly different. µ(Congruent) = µ(Incongruent)
