@@ -4,7 +4,7 @@ This repository contains my work for Udacity's Data Analyst Nanodegree program, 
 
 ### Projects:
 
-1. Project 1: Test a Perceptual Phenomenon
+1. <b> Project 1: </b> Test a Perceptual Phenomenon
 2. Project 2: Analyzing the NYC Subway Dataset
 3. Project 3: Data Wrangle OpenStreetMaps Data
 4. Project 4: Explore and Summarize Data
