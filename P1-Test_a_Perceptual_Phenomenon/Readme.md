@@ -30,12 +30,13 @@ The variables in the experiment are:
   * **S.D.** = 4.8
 
 ##### 4.	Question 4: Plot the data 
-[Line Chart](https://cloud.githubusercontent.com/assets/13821059/10432998/6b1fcdf8-70d4-11e5-8a29-1667928fe293.png)
+**Image:**[Line Chart](https://cloud.githubusercontent.com/assets/13821059/10432998/6b1fcdf8-70d4-11e5-8a29-1667928fe293.png)
 <p>From above Line Chart, we can see that the time taken to name in case of Incongruent word condition is consistently higher compared to the congruent word condition.</p>
 
 ##### 5.	Question 5: Perform the statistical test and interpret your results 
-We can see the t-statistic value of -8.0207 with a p-value of 4.103e-08 which is significantly less than 0.001.
-Therefore, we can reject the Null Hypothesis that the average time taken to name the ink colors is not significantly different.
+**Image:**[Statistical Test](https://cloud.githubusercontent.com/assets/13821059/10433041/b7e64a5e-70d4-11e5-9362-4b5642fb5c57.png)
+<p>We can see the **t-statistic value of -8.0207** with a **p-value of 4.103e-08** which is significantly less than 0.001.
+Therefore, we can **reject the Null Hypothesis(Ho)** that the average time taken to name the ink colors is not significantly different.</p>
 
 
 ##### References:
